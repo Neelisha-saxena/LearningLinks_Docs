@@ -1,0 +1,2 @@
+Toeknizer viewer: https://tiktokenizer.vercel.app/?model=gpt-4o
+Steps in pre-training language model viewer: https://bbycroft.net/llm
