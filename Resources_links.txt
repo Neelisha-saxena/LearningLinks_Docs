@@ -1,3 +1,4 @@
 Toeknizer viewer: https://tiktokenizer.vercel.app/?model=gpt-4o
 Steps in pre-training language model viewer: https://bbycroft.net/llm
 Mini gpt project by andrej karpathy: https://github.com/karpathy/minGPT
+Pre-training discussion pf adrej karpathy: https://github.com/karpathy/llm.c/discussions/677
