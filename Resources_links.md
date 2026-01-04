@@ -1,3 +1,4 @@
+<li> course andrej karpathy: https://www.youtube.com/watch?v=7xTGNNLPyMI&t=6025s</li>
 <li> dataset pre processing: https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1
 <li> Hugging face inference playground: https://huggingface.co/spaces/huggingface/inference-playground
 <li>Toeknizer viewer: https://tiktokenizer.vercel.app/?model=gpt-4o <br></li>
